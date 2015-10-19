@@ -19,4 +19,4 @@ def test_function():
 		bar.set_facecolor(plt.cm.jet(r / 10.))
 		bar.set_alpha(0.5)
 
-	plt.savefig("aa.pdf")
+	plt.show()
